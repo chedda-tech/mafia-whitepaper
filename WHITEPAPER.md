@@ -1,7 +1,5 @@
-# MAFIA: Decentralized Crypto Automation Platform
-## Technical Litepaper - Draft
+# MAFIA: AI-Enhanced Crypto Automation Platform
 
-**Version 1.0**  
 **Date: September 2025**
 
 ---
@@ -627,4 +625,4 @@ MAFIA's technical architecture demonstrates how thoughtful integration of emergi
 
 ---
 
-*This litepaper describes the technical architecture of MAFIA v2.0 as implemented in 2025. Technical specifications may evolve as the platform develops and integrates new technologies.*
+*This paper describes the technical architecture of MAFIA v2.0 as implemented in September 2025. Technical specifications may evolve as the platform develops and integrates new technologies.*
